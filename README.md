@@ -4,9 +4,7 @@
 ![LLM Researcher](https://img.shields.io/badge/AI%20Researcher-2563eb?style=flat&logo=openai&logoColor=white)
 ![UChicago MSADS](https://img.shields.io/badge/UChicago%20MS%20Applied%20Data%20Science-800000?style=flat)
 
-I’m a **data analyst / data scientist** with a background in **marketing analytics and consulting**. I build data-driven products across forecasting, experimentation, and applied machine learning, using statistical modeling, deep learning, and cloud-based workflows.
-
-I care about creating **practical, scalable solutions** that align with real user needs and support real decisions.
+I’m a **data data scientist** with a background in **marketing analytics and consulting**. I focus on creating **practical, scalable analytics solutions** that solve real problems for real users. 
 
 ---
 
@@ -14,9 +12,9 @@ I care about creating **practical, scalable solutions** that align with real use
 
 - **MS in Applied Data Science**, University of Chicago  
 - **BA in Advertising & Psychology**, University of Minnesota *(ask me about my pivot!)*  
-- Enjoy the full analytics lifecycle: **ETL → modeling → dashboards → decisions**  
-- Love making **clear, well-designed presentations**  
-- Interested in **ethics, interpretability, and AI**
+- Enjoy working on the end-to-end analytics lifecycle: **ETL → modeling → dashboards → decisions**  
+- Love making **beautful presentations** !
+- Exploring intersections of ethics, interpretability, and AI
 
 ### 🛠️ Tech Stack
 
@@ -27,35 +25,34 @@ I care about creating **practical, scalable solutions** that align with real use
 
 ### 💬 Contact
 
-📫 **Reach me at:** mhphan27@gmail.com
+**Reach me at:** mhphan27@gmail.com
 
 ---
 
 ### 🚀 Featured Projects
 
+**[BureauBot — AI-Powered Form Completion Assistant](https://github.com/phanhoangminh99/bureaubot-capstone)**  *(AI / LLM)*
+
+- **Problem:** Immigration and legal forms are repetitive and error-prone.
+- **What I did:** Built an LLM-powered assistant that guides users step-by-step and fills PDFs programmatically.
+- **Technique:** Agentic LLM workflows + schema-first data extraction + deterministic PDF field mapping
+- **Result:** Consolidated end-to-end legal form completion into a single system, eliminating redundant data entry and reducing user error.
+  
+
 **[Brain Scan Classification (MRI)](https://github.com/phanhoangminh99/brain-scan-classification)**  *(Deep Learning / Computer Vision)*
 
-- **Problem:** MRI scans require careful preprocessing and are slow to interpret at scale.
-- **What I did:** Built a reproducible CNN training pipeline covering preprocessing, training, validation, and error analysis.
-- **Technique:** CNN-based image classification  
-- **Result:** Delivered a strong baseline model with clear diagnostics on performance and failure cases.
-
+- **Problem:** MRI scans are time-consuming to interpret, and reliable tumor detection and classification at scale is challenging.
+- **What I did:** Built and evaluated an end-to-end computer vision pipeline for brain tumor classification and localization, including preprocessing, model training, and validation.
+- **Technique:** CNN-based models (ResNet-50, EfficientNet) for classification, with YOLO and U-Net for tumor localization and comparison.
+- **Used for:** Automated tumor detection, multi-class tumor classification, and coarse localization to support radiologist review.
+- **Result:** Achieved strong tumor detection recall and competitive multi-class performance, and surfaced clear tradeoffs between classification and localization approaches.
 
 **[E-Commerce Customer Segmentation & Personalization Strategy](https://github.com/phanhoangminh99/ecommerce-customer-segmentation)**  *(Segmentation)*
 
 - **Problem:** Broad campaigns limited personalization and ROI.
 - **What I did:** Engineered RFM features, clustered customers, and mapped segments to targeted marketing strategies.
 - **Technique:** RFM analysis + K-Means clustering  
-- **Result:** Modeled **+20% uplift** for top customers and **3–5% lift** across the broader base (~**37% ROI**).
-
-
-**[BureauBot — AI-Powered Form Completion Assistant](https://github.com/phanhoangminh99/bureaubot-capstone)**  *(AI / LLM Product)*
-
-- **Problem:** Immigration and legal forms are repetitive and error-prone.
-- **What I did:** Built an LLM-powered assistant that guides users step-by-step and fills PDFs programmatically.
-- **Technique:** LLM orchestration + schema-driven extraction + PDF parsing  
-- **Result:** Reduced manual data entry and improved form consistency.
-
+- **Result:** Modeled **uplift** for top customers and **lift** across the broader base (~**37% ROI**).
 
 **[Laptop Market Report Dashboard](https://github.com/phanhoangminh99/Laptop-Market-Report-Dashboard)**  *(Visualization / BI)*
 
@@ -65,7 +62,7 @@ I care about creating **practical, scalable solutions** that align with real use
 - **Result:** Enabled fast comparison of pricing, specs, brand positioning, and trends.
 
 
-**[Boston Housing Price Prediction](https://github.com/phanhoangminh99/boston-housing-price-prediction)**  *(Regression / Fundamental)s*
+**[Boston Housing Price Prediction](https://github.com/phanhoangminh99/boston-housing-price-prediction)**  *(Regression)*
 
 - **Problem:** Housing prices depend on multiple correlated features.
 - **What I did:** Performed EDA, trained regression models, and interpreted coefficients.
