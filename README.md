@@ -64,9 +64,9 @@ I’m a **data data scientist** with a background in **marketing analytics and c
 
 **[Boston Housing Price Prediction](https://github.com/phanhoangminh99/boston-housing-price-prediction)**  *(Regression)*
 
-- **Problem:** Housing prices depend on multiple correlated features.
-- **What I did:** Performed EDA, trained regression models, and interpreted coefficients.
-- **Technique:** Regression modeling + exploratory analysis  
-- **Result:** Built a solid baseline model and identified key price drivers.
+- **Problem:** Estimating home values with a limited feature set while avoiding overfitting and unstable predictions.
+- **What I did:** Analyzed model behavior using learning curves and complexity curves, then selected model depth via cross-validation.
+- **Technique:** Decision tree regression + bias–variance diagnostics + GridSearchCV.
+- **Result:** Identified an optimal shallow model (`max_depth = 4`) that generalizes best and produces stable, interpretable predictions.
 
 
