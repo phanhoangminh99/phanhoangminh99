@@ -1,6 +1,6 @@
 # Hi, I’m Minh 👋
 
-![Data Scientist](https://img.shields.io/badge/Data%20Scientist-1f2937?style=flat&logo=databricks&logoColor=white)
+![Data Scientist](https://img.shields.io/badge/Data%20Scientist-f3f4f6?style=flat&logo=databricks&logoColor=6b7280)
 ![LLM Researcher](https://img.shields.io/badge/AI%20Researcher-2563eb?style=flat&logo=openai&logoColor=white)
 ![UChicago MSADS](https://img.shields.io/badge/UChicago%20MS%20Applied%20Data%20Science-800000?style=flat)
 
