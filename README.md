@@ -39,7 +39,7 @@ I’m a **data data scientist** with a background in **marketing analytics and c
 - **Result:** Consolidated end-to-end legal form completion into a single system, eliminating redundant data entry and reducing user error.
   
 
-**[Brain Scan Classification (MRI)](https://github.com/phanhoangminh99/brain-scan-classification)**  *(Deep Learning / Computer Vision)*
+**[Brain Scan Classification Using MRI](https://github.com/phanhoangminh99/brain-scan-classification)**  *(Deep Learning / Computer Vision)*
 
 - **Problem:** MRI scans are time-consuming to interpret, and reliable tumor detection and classification at scale is challenging.
 - **What I did:** Built and evaluated an end-to-end computer vision pipeline for brain tumor classification and localization, including preprocessing, model training, and validation.
