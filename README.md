@@ -53,13 +53,6 @@ I’m a **data data scientist** with a background in **marketing analytics and c
 - **Used for:** Automated tumor detection, multi-class tumor classification, and coarse localization to support radiologist review.
 - **Result:** Achieved strong tumor detection recall and competitive multi-class performance, and surfaced clear tradeoffs between classification and localization approaches.
 
-**[E-Commerce Customer Segmentation & Personalization Strategy](https://github.com/phanhoangminh99/ecommerce-customer-segmentation)**  *(Segmentation)*
-
-- **Problem:** Broad campaigns limited personalization and ROI.
-- **What I did:** Engineered RFM features, clustered customers, and mapped segments to targeted marketing strategies.
-- **Technique:** RFM analysis + K-Means clustering  
-- **Result:** Modeled **uplift** for top customers and **lift** across the broader base (~**37% ROI**).
-
 **[Laptop Market Report Dashboard](https://github.com/phanhoangminh99/Laptop-Market-Report-Dashboard)**  *(Visualization / BI)*
 
 - **Problem:** Laptop market data is fragmented and changes frequently.
