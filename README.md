@@ -37,7 +37,13 @@ I’m a **data data scientist** with a background in **marketing analytics and c
 - **What I did:** Built an LLM-powered assistant that guides users step-by-step and fills PDFs programmatically.
 - **Technique:** Agentic LLM workflows + schema-first data extraction + deterministic PDF field mapping
 - **Result:** Consolidated end-to-end legal form completion into a single system, eliminating redundant data entry and reducing user error.
-  
+
+**[U-3 Unemployment Rate Forecasting](https://github.com/phanhoangminh99/u3-labor-underutilization-rate-forecasting)** *(Applied Econometrics / Time Series)*
+
+- **Problem:** Short-term unemployment forecasting is difficult due to strong temporal dependence, multicollinearity across macro indicators, and limited availability of forward-looking signals.
+- **What I did:** Built an interpretable forecasting pipeline using monthly U.S. macroeconomic, housing, and business data to predict the U-3 unemployment rate ahead of release.
+- **Technique:** Lag-based time-series modeling + forward feature selection + rigorous residual and diagnostic analysis.
+- **Result:** Produced a November 2024 unemployment forecast of 4.14%, closely matching the reported 4.2%, while retaining transparency and forward-looking validity.
 
 **[Brain Scan Classification Using MRI](https://github.com/phanhoangminh99/brain-scan-classification)**  *(Deep Learning / Computer Vision)*
 
