@@ -4,7 +4,7 @@
 ![LLM Researcher](https://img.shields.io/badge/AI%20Researcher-2563eb?style=flat&logo=openai&logoColor=white)
 ![UChicago MSADS](https://img.shields.io/badge/UChicago%20MS%20Applied%20Data%20Science-800000?style=flat)
 
-I’m a **data data scientist** with a background in **marketing analytics and consulting**. I focus on creating **practical, scalable analytics solutions** that solve real problems for real users. 
+I’m a **data scientist** with a background in **marketing analytics and consulting**. I focus on creating **practical, scalable analytics solutions** that solve real problems for real users. 
 
 ---
 
