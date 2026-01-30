@@ -4,7 +4,7 @@
 ![LLM Researcher](https://img.shields.io/badge/AI%20Researcher-2563eb?style=flat&logo=openai&logoColor=white)
 ![UChicago MSADS](https://img.shields.io/badge/UChicago%20MS%20Applied%20Data%20Science-800000?style=flat)
 
-I’m a **data scientist** with a background in **marketing analytics and consulting**. I focus on creating **practical, scalable analytics solutions** that solve real problems for real users. 
+I’m a **data scientist** with a background in **data analytics and consulting**. I enjoy using data and machine learning to solve real problems and build things that feel useful. I’m especially interested in healthcare, social impact, sustainability, and media.
 
 ---
 
@@ -18,9 +18,8 @@ I’m a **data scientist** with a background in **marketing analytics and consul
 
 ### 🛠️ Tech Stack
 
-- **Languages:**    Python, R, SQL
-- **Libraries:**
-**Libraries**  Pandas, NumPy, scikit-learn, PyTorch, SciPy, statsmodels, imblearn, NLTK, LangChain, Streamlit, pyfolio, riskfolio
+- **Languages:**    Python, SQL
+- **Libraries:** Pandas, NumPy, scikit-learn, PyTorch, SciPy, statsmodels, imblearn, NLTK, LangChain, Streamlit, pyfolio, riskfolio
 - **Tools:** Git, GCP, Snowflake, Docker, Tableau, Power BI, MongoDB, Neo4j, LLM APIs (Gemini, Llama, OpenAI)
 
 ### 💬 Contact
@@ -29,9 +28,9 @@ I’m a **data scientist** with a background in **marketing analytics and consul
 
 ---
 
-### 🚀 Featured Projects
+### 📂 Featured Projects
 
-**[BureauBot — AI-Powered Form Completion Assistant](https://github.com/phanhoangminh99/bureaubot-capstone)**  *(AI / LLM)*
+**[BureauBot — AI-Powered Form Completion Assistant](https://github.com/phanhoangminh99/bureaubot-capstone)**  *(Agentic AI / LLM Workflow )*
 
 - **Problem:** Immigration and legal forms are repetitive and error-prone.
 - **What I did:** Built an LLM-powered assistant that guides users step-by-step and fills PDFs programmatically.
@@ -65,7 +64,42 @@ I’m a **data scientist** with a background in **marketing analytics and consul
 
 - **Problem:** Estimating home values with a limited feature set while avoiding overfitting and unstable predictions.
 - **What I did:** Analyzed model behavior using learning curves and complexity curves, then selected model depth via cross-validation.
-- **Technique:** Decision tree regression + bias–variance diagnostics + GridSearchCV.
+- **Technique:** Decision Tree regression + bias–variance diagnostics + GridSearchCV.
 - **Result:** Identified an optimal shallow model (`max_depth = 4`) that generalizes best and produces stable, interpretable predictions.
 
+---
 
+### Technical Skills ###
+
+### Programming & Data Engineering  
+**Languages:** Python, SQL, R  
+**Databases & Cloud:** Google Cloud Platform (GCP), Snowflake, Databricks, BigQuery, Relational Databases (SQL)
+
+### Machine Learning & Data Science  
+**Techniques:**  
+Supervised Learning (Linear Regression, Random Forest, Gradient Boosting, Classification, MLPs)  
+Unsupervised Learning (Clustering, PCA)  
+Time Series Forecasting, Model Evaluation & Diagnostics  
+
+**Deep Learning:** TensorFlow, PyTorch  
+
+### Natural Language Processing  
+**Toolkits:** Hugging Face (Transformers), spaCy, NLTK, Gensim  
+**Methods:** Topic Modeling, Retrieval-Augmented Generation (RAG), Regular Expressions (RegEx), Sentiment Analysis  
+
+### Data Visualization & BI  
+**Tools:** Power BI, Tableau, Looker, Plotly, Matplotlib, Seaborn  
+
+### MLOps & Deployment  
+**Workflow:** Docker, MLflow, CI/CD (GitHub Actions, Pre/Post Hooks), Git  
+**APIs & Apps:** FastAPI, Flask, Streamlit  
+**Orchestration & Compute:** Airflow, Ray  
+**Development:** Unit & Integration Testing, Logging & Debugging, Environment Management (pip/conda), Command Line (bash)
+
+### Project Management  
+**Tools:** Atlassian JIRA, Trello  
+**Methodology:** Agile Project Management  
+
+---
+### 🤝 Let’s Connect!
+If any of this resonates, feel free to reach out — always down to talk data and ideas.
