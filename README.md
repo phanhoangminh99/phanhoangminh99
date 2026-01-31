@@ -16,16 +16,6 @@ I’m a **data scientist** with a background in **data analytics and consulting*
 - Love making **beautful presentations** !
 - Exploring intersections of ethics, interpretability, and AI
 
-### 🛠️ Tech Stack
-
-- **Languages:**    Python, SQL
-- **Libraries:** Pandas, NumPy, scikit-learn, PyTorch, SciPy, statsmodels, imblearn, NLTK, LangChain, Streamlit, pyfolio, riskfolio
-- **Tools:** Git, GCP, Snowflake, Docker, Tableau, Power BI, MongoDB, Neo4j, LLM APIs (Gemini, Llama, OpenAI)
-
-### 💬 Contact
-
-**Reach me at:** mhphan27@gmail.com
-
 ---
 
 ### 📂 Featured Projects
@@ -101,5 +91,6 @@ Time Series Forecasting, Model Evaluation & Diagnostics
 **Methodology:** Agile Project Management  
 
 ---
-### 🤝 Let’s Connect!
+### 💬 Contact
 If any of this resonates, feel free to reach out — always down to talk data and ideas.
+**Reach me at:** mhphan27@gmail.com
